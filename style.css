@@ -3,6 +3,9 @@
 body{
     font-family:Poppins ;
 }
+title{
+    font-family:Merienda ;
+}
 .about{
     display: flex;
     justify-content: center;
