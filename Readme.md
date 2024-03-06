@@ -26,7 +26,7 @@ This is a personal portfolio website created to showcase your skills, projects, 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   https://github.com/Chandruvijayakumar/LiveClassDemo
    ```
 
 ## Customization
